@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Riff",
+  "description": "An application where two Gemini AI instances engage in a continuous, high-level creative dialogue based on a user prompt.",
+  "requestFramePermissions": []
+}
